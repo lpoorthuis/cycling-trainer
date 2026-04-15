@@ -165,6 +165,31 @@ Do this every day, ideally after sitting for extended periods at work. These 5 e
 
 ---
 
+### A2. Hip Stability Mini-Circuit (5 minutes -- 4x per week)
+
+Your hip instability is a neuromuscular patterning issue that needs frequent stimulus to correct. Do this mini-circuit 4x per week: Monday (as part of full strength session), plus 3 other days (e.g. before Tuesday/Thursday rides and on one rest day). These are low-fatigue exercises that won't impact your riding.
+
+**1. Side-Lying Hip Abduction -- 1 x 15 each side**
+- Lie on side, legs straight. Lift top leg 30-40cm, hold 1s, lower in 3s. Toe points slightly DOWN.
+- **Feel it in:** SIDE OF THE HIP (glute med), 5-8cm below the bony hip point. NOT the front of the hip. If you feel the front/quad, roll slightly more forward and point the toe down more.
+
+**2. Single-Leg Glute Bridge -- 1 x 10 each side**
+- One foot planted, other leg extended. Drive through heel, lift hips, keep pelvis LEVEL. Hold 2s at top.
+- **Feel it in:** GLUTE of the working leg. Hands on hip bones -- if one side dips, that's the weakness. Squeeze the glute HARD at the top.
+
+**3. Standing Hip Hike -- 1 x 12 each side**
+- Stand on one leg on a step/book (5-10cm). Hanging leg: hike the hip UP by squeezing the standing leg's glute med, then slowly lower below level. No knee bend.
+- **Feel it in:** OUTER HIP of the STANDING leg. This is the exact glute med contraction that keeps your pelvis level during pedaling and was failing in your single-leg RDL.
+
+**When to do it:**
+- Before Tuesday/Thursday key rides: replaces or supplements the first 3 exercises of the pre-ride activation
+- On rest/mobility days: combine with the daily hip mobility routine
+- Monday: done as Block 1 of the full strength circuit (3 sets instead of 1)
+
+**Progression:** When 1x15 side-lying abduction feels easy, add a band around ankles. When hip hikes feel controlled and smooth, progress to slow single-leg mini-squats on the step.
+
+---
+
 ### B. Tibialis Anterior Rehabilitation Protocol
 
 Your right tibialis anterior weakness is a real limiter on long rides. This progressive program rebuilds strength and endurance in the muscle. Do these 3-4x per week (can combine with Monday strength or daily mobility).
@@ -197,57 +222,78 @@ Your right tibialis anterior weakness is a real limiter on long rides. This prog
 
 ---
 
-### C. Monday Strength + Mobility Circuit (30-40 minutes)
+### C. Monday Strength + Mobility Circuit (40-45 minutes)
 
-This is your primary off-bike session. With 2x 12kg kettlebells + bands, the focus is on single-leg work (makes the weight more challenging) and cycling-specific movements. If/when you get a 24kg KB, progression notes are included.
+This is your primary off-bike session. With 2x 12kg kettlebells + bands, the focus is on hip stability, single-leg work, and cycling-specific movements.
 
 **Warm-Up (3 min):**
 - Hip CARs: 3 each direction, each leg
 - Banded monster walks: 10 steps each direction
 - Glute bridges: 10 reps with 2-second hold at top
 
-**Circuit (repeat 2-3 rounds, 25-30 min):**
+**BLOCK 1: Hip Stability (10-12 min) -- DO FIRST, EVERY SESSION**
 
-**1. Goblet Squat -- 3 x 10-12 reps**
+Your single-leg RDL revealed significant hip instability (pelvis dropping on the non-standing side). This is gluteus medius/minimus weakness -- the muscles that keep your pelvis level during every single pedal stroke. This block directly addresses that.
+
+**1. Side-Lying Hip Abduction -- 3 x 15 each side**
+- Lie on your side, legs straight and stacked. Lift the top leg straight up about 30-40cm, hold 1 second at top, lower slowly (3 seconds down).
+- **CRITICAL FORM:** Keep your hips STACKED VERTICALLY -- do NOT roll your top hip backward. Point your top toe slightly downward (internal rotation) to bias the glute med. If you point the toe up, the hip flexor (TFL) takes over.
+- **Feel it in:** A burning sensation on the SIDE OF THE HIP, about 5-8cm below the bony point of the hip (iliac crest). This is the gluteus medius. If you feel it in the FRONT of the hip or the quad, you're cheating -- your TFL is taking over. Reset: roll slightly more forward, point toe down, think about pushing the heel away from you.
+- Progress: add ankle weight or band around ankles when 15 reps feels easy.
+
+**2. Single-Leg Glute Bridge with Pelvic Control -- 3 x 10 each side**
+- Lie on back, knees bent, feet flat. Lift one foot off the ground and extend that leg straight. Drive through the planted heel to lift hips, focusing on keeping the pelvis COMPLETELY LEVEL -- no dipping or rotating.
+- **Feel it in:** The GLUTE of the working leg (not the hamstring -- if you cramp in the hamstring, scoot your foot closer to your butt). Place your hands on your hip bones (ASIS) -- you should be able to balance a glass of water on your pelvis at the top. If one hip drops, that's the weakness showing. Hold the top position for 2 seconds.
+- This directly trains the pelvic stability you need on the bike.
+
+**3. Standing Hip Hike (Trendelenburg Drill) -- 3 x 12 each side**
+- Stand on one leg on a step or thick book (5-10cm height). Let the other leg hang freely off the edge. Without bending the standing knee, HIKE the hanging hip UP by squeezing the glute med of the standing leg, then slowly LOWER it below level. That's one rep.
+- **Feel it in:** The OUTER HIP of the STANDING LEG does all the work. You should feel the glute med contract to lift the pelvis on the hanging side. This is the exact muscle action that was failing during your single-leg RDL -- the standing hip couldn't hold the pelvis level.
+- Keep your upper body still. No leaning. Hands on hips to feel the movement.
+
+**4. Banded Lateral Step-Down -- 2 x 8 each side**
+- Stand on a step (15-20cm) with a mini band above your knees. Slowly lower the free foot toward the floor by bending the standing knee, controlling the descent. Touch the heel lightly to the floor and push back up.
+- **Feel it in:** QUAD and GLUTE of the standing leg controlling the descent. The band forces your GLUTE MED to work overtime to prevent the knee from collapsing inward. If your knee dives inward, the band is winning -- push the knee out over the 2nd toe.
+- Go SLOW. 3 seconds down, 1 second tap, 2 seconds up.
+
+**BLOCK 2: Main Strength (15-18 min, 2 rounds)**
+
+**5. Goblet Squat -- 2 x 10-12 reps**
 - Hold one or both KBs at chest height (12kg or 24kg). Feet shoulder width, toes slightly out. Squat deep -- elbows inside knees at bottom.
 - **Feel it in:** QUADS (front of thigh) drive you up. GLUTES (butt) engage heavily at the bottom and as you stand. You should feel the weight of the kettlebell pulling your chest forward, which forces your CORE to brace hard to stay upright.
-- *With 24kg KB:* Hold with both hands in goblet position. This becomes a legitimate strength exercise.
 - Tempo: 3 seconds down, pause 1 second at bottom, explode up.
 
-**2. Single-Leg Romanian Deadlift (KB) -- 3 x 8 each leg**
-- Hold a 12kg KB in the hand OPPOSITE to the standing leg. Hinge at the hip, sending the non-standing leg straight behind you as your torso tilts forward. KB hangs straight down. Return to standing.
-- **Feel it in:** HAMSTRING and GLUTE of the standing leg should be stretched and loaded as you hinge forward. The LOWER BACK and CORE work to prevent rotation (your torso wants to twist toward the KB side -- resist this). The GLUTE MED (outer hip) of the standing leg fires to keep your pelvis level.
-- This exercise also challenges ANKLE STABILITY -- good for your tibialis anterior rehab.
+**6. Single-Leg Romanian Deadlift (REGRESSION until hip stabilizes) -- 2 x 8 each leg**
+- **Until your hip stops collapsing:** Do these BODYWEIGHT ONLY with one hand lightly touching a wall or chair for balance. Focus ENTIRELY on keeping the pelvis level. The trailing leg, torso, and arms should form one straight line. Only hinge as far as you can maintain a level pelvis.
+- **Feel it in:** HAMSTRING and GLUTE of the standing leg stretching and loading as you hinge. The OUTER HIP (glute med) of the standing leg fighting to keep the pelvis level. If the hip drops, you've gone too far -- shorten the range.
+- **Progression:** When you can do 8 reps per leg with a level pelvis and no wall touch, add the 12kg KB back (opposite hand to standing leg).
 
-**3. KB Swing -- 3 x 15 reps**
-- Both hands on one KB (12kg, or 24kg when available). Feet wider than shoulders. Hinge at hips, swing KB between legs, then drive hips forward explosively to swing KB to chest height. Arms stay relaxed -- power comes from the hips.
-- **Feel it in:** The SNAP should come from your GLUTES and HAMSTRINGS as your hips drive forward. NOT from your arms or lower back. At the top of the swing, squeeze your glutes hard and brace your abs (imagine someone is about to punch your stomach). You should NOT feel this in your lower back -- if you do, you're hinging too late or lifting with the back.
+**7. KB Swing -- 2 x 15 reps**
+- Both hands on one KB. Feet wider than shoulders. Hinge at hips, swing KB between legs, then drive hips forward explosively to chest height. Arms relaxed -- power from the hips.
+- **Feel it in:** The SNAP from GLUTES and HAMSTRINGS as hips drive forward. At the top, squeeze glutes hard and brace abs. You should NOT feel this in your lower back.
 
-**4. Bulgarian Split Squat -- 3 x 8 each leg**
-- Rear foot elevated on a chair or couch. Front foot about 60-70cm ahead. Hold KBs at sides (12kg each) or one KB in goblet position.
-- **Feel it in:** The QUAD and GLUTE of the front leg do all the work. Deep stretch in the HIP FLEXOR of the back leg at the bottom position. You should feel like the front leg is doing 80%+ of the effort. If your front knee is tracking over your toes, your stance is too narrow -- step the front foot further out.
-- This is your most important strength exercise. It builds single-leg power directly relevant to pedaling and corrects bilateral imbalances.
+**8. Bulgarian Split Squat -- 2 x 8 each leg**
+- Rear foot on a chair/couch. Front foot ~60-70cm ahead. Hold KBs at sides or one KB goblet.
+- **Feel it in:** QUAD and GLUTE of the front leg. Deep HIP FLEXOR stretch in the back leg at the bottom. Front leg does 80%+ of the effort. Watch that your front knee tracks over 2nd-3rd toe and doesn't cave inward.
 
-**5. Push-Up -- 3 x 12-15 reps**
-- Full plank position. Hands slightly wider than shoulders. Lower chest to fist-height off floor. Press back up.
-- **Feel it in:** CHEST (pectorals) and TRICEPS do the pressing. But if done correctly, you should also feel your CORE braced the entire time -- abs tight, glutes squeezed, body rigid as a plank. If your hips sag, your core isn't engaged.
+**9. Push-Up -- 2 x 15 reps**
+- **Feel it in:** CHEST and TRICEPS pressing. CORE braced the entire time.
 
-**6. Banded Pull-Apart -- 3 x 15 reps**
-- Hold resistance band at arm's length in front of you, hands shoulder width. Pull the band apart by squeezing your shoulder blades together until the band touches your chest.
-- **Feel it in:** The muscles BETWEEN your shoulder blades (rhomboids, mid-trapezius, rear deltoids). This directly counteracts the rounded-forward desk and cycling posture. Squeeze and hold for 1 second at full contraction.
+**10. Banded Pull-Apart -- 2 x 15 reps**
+- **Feel it in:** Muscles BETWEEN the shoulder blades (rhomboids, mid-trap). Squeeze 1 second at full contraction.
 
-**7. Pallof Press (Band) -- 2 x 10 each side**
-- Anchor band at chest height to a door handle or sturdy object. Stand sideways to anchor point, hold band at chest with both hands. Press hands straight forward, extending arms fully, then return to chest. The band tries to rotate you -- resist it.
-- **Feel it in:** Your OBLIQUES and deep CORE (transversus abdominis) fighting the rotational pull. You should NOT rotate at all. Keep hips square, shoulders square. This trains the anti-rotation stability you need for efficient power transfer on the bike.
+**BLOCK 3: Core + Anti-Rotation (5 min)**
 
-**8. Dead Bug -- 2 x 8 each side**
-- Lie on back, arms pointing to ceiling, knees bent at 90 degrees (shins parallel to floor). Slowly extend one arm overhead while extending the opposite leg out straight, hovering above the floor. Return and switch sides.
-- **Feel it in:** Your DEEP ABDOMINALS (transversus abdominis) working to keep your lower back PRESSED FLAT against the floor. The moment your lower back arches off the floor, you've lost the exercise. Stop the range of motion before that happens. Think about pulling your belly button to the floor.
+**11. Pallof Press (Band) -- 2 x 10 each side**
+- **Feel it in:** OBLIQUES and deep CORE fighting rotational pull. No rotation at all.
+
+**12. Dead Bug -- 2 x 10 each side**
+- **Feel it in:** DEEP ABDOMINALS keeping lower back pressed to floor. Stop before back arches.
 
 **Cool-Down (5 min):**
 - Couch stretch: 45s each side
 - Pigeon pose: 45s each side
-- Foam rolling quads + hip flexors: 60s each
+- Foam rolling quads + hip flexors + glutes: 60s each
 
 ---
 
